@@ -6,8 +6,8 @@ body{
 
 #main{
   width:200;
-  margin: 40px auto;
-  padding:40px 80px;
+  margin: 20px auto;
+  padding:40px 40px;
   border:green 1px solid;
   background-color:white;
 }
