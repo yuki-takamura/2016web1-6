@@ -51,6 +51,11 @@ body{
   background-color :red;
 }
 
+.btnleft{
+  float : left;
+  margin-right :30px;
+}
+
 caption{
   padding:5px;
 }
