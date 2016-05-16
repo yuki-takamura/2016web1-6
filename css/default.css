@@ -12,6 +12,12 @@ body{
   background-color:white;
 }
 
+.currytable:after{
+  content:"";
+  clear:both;
+  display:block;
+}
+
 .tableclass{
   float:left;
   margin-right:30px;
