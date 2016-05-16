@@ -12,7 +12,7 @@ body{
   background-color:white;
 }
 
-.currytable:after{
+.curry_table:after{
   content:"";
   clear:both;
   display:block;
