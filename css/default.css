@@ -17,7 +17,7 @@ thead th, tfoot th{
 }
 
 thead td{
-  color : white;
+  color : black;
   background-color:yellow;
   text-align:center;
 }
