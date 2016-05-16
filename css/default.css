@@ -4,6 +4,12 @@ body{
   background-color : #00FFFF;
 }
 
+#main{
+  padding:40px;
+  border:green 1px solid;
+  background-color:white;
+}
+
 .tableclass{
   float:left;
   margin-right:30px;
